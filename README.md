@@ -5,6 +5,7 @@ rebug.me has been down for a while, but luckily the internet archive hosts a fai
 in the event that [midnight channel](https://archive.midnightchannel.net/SonyPS/Firmware/?cat=rebug) goes down,
 this page can be used as a quick way to get the download link to a particular rebug firmware
 
+## Links
 
 |firmware | rebug link | PSSF file | MD5 |
 |---------|------------|-----------|-----|
