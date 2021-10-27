@@ -1,5 +1,11 @@
 # PS3-CFW-rebug-firmware-links
 
+## What is this?
+rebug.me has been down for a while, but luckily the internet archive hosts a fair few of the firmwares, 
+in the event that [midnight channel](https://archive.midnightchannel.net/SonyPS/Firmware/?cat=rebug) goes down,
+this page can be used as a quick way to get the download link to a particular rebug firmware
+
+
 |firmware | rebug link | PSSF file | MD5 |
 |---------|------------|-----------|-----|
 | 4.84.2 REX | https://web.archive.org/web/20190612022418mp_/https://rebug.me/?wpfb_dl=211 | https://web.archive.org/web/20201031062437/https://playstationscenefiles.com/rebug/REBUG_4.84.2_REX_0835d81e3c581f3bdfdfbe86fca5e192_PS3UPDAT.PUP | 0835d81e3c581f3bdfdfbe86fca5e192 |
