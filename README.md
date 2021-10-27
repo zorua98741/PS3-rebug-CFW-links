@@ -3,7 +3,11 @@
 ## Disclaimer
 I am in no way responsible for the use of these links/files, 
 you are expected to know how to verify that the file has been downloaded correctly,
-and are aware of the potential dangers that may arise by the use of these provided links.
+as well as how to verify that your PS3 console is compatible with the firmware you download,
+and are aware of the potential dangers that may arise by the use of these provided links. <br>
+
+hyperlinks have been used to shorten row width in the table for readability purposes, if you wish to view the entire link before downloading,
+right click the link and use your browsers variation of "copy link address" and paste it somewhere you can view it.
 
 ## What is this?
 rebug.me has been down for a while, but luckily the internet archive hosts a fair few of the firmwares, 
