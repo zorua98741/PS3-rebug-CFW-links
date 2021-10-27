@@ -23,10 +23,10 @@ To download the PS3UPDAT.PUP, open the "PSSF file" link corresponding to the fir
 
 |firmware | rebug link | PSSF file | MD5 |
 |---------|------------|-----------|-----|
-| 4.82.2 LITE | | | |
-| 4.82.1 DECR LE | | | |
-| 4.82.1 REX | | | |
-| 4.82.1 DREX | | | |
+| 4.82.2 LITE | none | none | none |
+| 4.82.1 DECR LE | none | none | none |
+| 4.82.1 REX | none | none | none |
+| 4.82.1 DREX | none | none | none |
 | 4.82.2 REX | [rebug.me/?wpfb_dl=199](https://web.archive.org/web/20181122171014mp_/https://rebug.me/?wpfb_dl=199) | [REBUG_4.82.2_REX](https://web.archive.org/web/20201114044503/https://playstationscenefiles.com/rebug/REBUG_4.82.2_REX_PS3UPDAT_6eead68f81a66502294fd329d4087106.PUP) | 6eead68f81a66502294fd329d4087106 |
 | 4.82.2 DREX | [rebug.me/?wpfb_dl=200](https://web.archive.org/web/20181122171434mp_/https://rebug.me/?wpfb_dl=200) | [REBUG_4.82.2_D-REX](https://web.archive.org/web/20191110013639/https://playstationscenefiles.com/rebug/REBUG_4.82.2_D-REX_PS3UPDAT_655b332089cb7a493a22c64c5d93858e.PUP) | 655b332089cb7a493a22c64c5d93858e |
 | 4.84.1 LITE | none | none | none |
