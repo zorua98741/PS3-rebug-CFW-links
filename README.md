@@ -23,6 +23,16 @@ To download the PS3UPDAT.PUP, open the "PSSF file" link corresponding to the fir
 
 |firmware | rebug link | PSSF file | MD5 |
 |---------|------------|-----------|-----|
+| 4.82.2 LITE | | | |
+| 4.82.1 DECR LE | | | |
+| 4.82.1 REX | | | |
+| 4.82.1 DREX | | | |
+| 4.82.2 REX | [rebug.me/?wpfb_dl=199](https://web.archive.org/web/20181122171014mp_/https://rebug.me/?wpfb_dl=199) | [REBUG_4.82.2_REX](https://web.archive.org/web/20201114044503/https://playstationscenefiles.com/rebug/REBUG_4.82.2_REX_PS3UPDAT_6eead68f81a66502294fd329d4087106.PUP) | 6eead68f81a66502294fd329d4087106 |
+| 4.82.2 DREX | | | |
+| 4.84.1 LITE | none | none | none |
+| 4.84.1 REX | [rebug.me/?wpfb_dl=208](https://web.archive.org/web/20191203061231mp_/https://rebug.me/?wpfb_dl=208) | none | 8b68282425665fd4453b8ae14839d876
+| 4.84.1 DREX | none | none | none |
+| 4.84.1 DECR LE | none | none | none |
 | 4.84.2 REX | [rebug.me/?wpfb_dl=211](https://web.archive.org/web/20190612022418mp_/https://rebug.me/?wpfb_dl=211) | [REBUG_4.84.2_REX](https://web.archive.org/web/20201031062437/https://playstationscenefiles.com/rebug/REBUG_4.84.2_REX_0835d81e3c581f3bdfdfbe86fca5e192_PS3UPDAT.PUP) | 0835d81e3c581f3bdfdfbe86fca5e192 |
 | 4.84.2 DREX | [rebug.me/?wpfb_dl=212](https://web.archive.org/web/20200703123047/https://rebug.me/?wpfb_dl=212) | [REBUG_4.84.2_D-REX](https://web.archive.org/web/20201031062347/https://playstationscenefiles.com/rebug/REBUG_4.84.2_D-REX_9211252d41841461c6299bfad48fa7f1_PS3UPDAT.PUP) | 9211252d41841461c6299bfad48fa7f1 |
 | 4.85.1 LITE | [rebug.me/?wpfb_dl=214](https://web.archive.org/web/20200526020544mp_/https://rebug.me/?wpfb_dl=214) | [REBUG_4.85.1_LITE](https://web.archive.org/web/20201031061854/https://playstationscenefiles.com/rebug/REBUG_4.85.1_LITE_55173e651a5aa10d9aab9127e6e79e25_PS3UPDAT.PUP) | 55173e651a5aa10d9aab9127e6e79e25
