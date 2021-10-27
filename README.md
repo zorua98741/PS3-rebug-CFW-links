@@ -1,7 +1,7 @@
 # PS3-CFW-rebug-firmware-links
-## Rebug.me is dead, and as such i have collected the links for some of their firmwares from the waybackmachine/internet archive
-### Do not install these if you do not know what you are doing, i am not responsible if you manage to break/brick/etc your PS3 by installing these firmwares, these links are intended for easy access to people that require rebug firmwares for converting to DEX
-4.84.2 REX: https://web.archive.org/web/20190612022418mp_/https://rebug.me/?wpfb_dl=211 <br>
-4.84.2 D-REX: https://web.archive.org/web/20200703123047/https://rebug.me/?wpfb_dl=212 <br>
-Rebug Toolbox: https://web.archive.org/web/20200703122720/https://playstationscenefiles.com/rebug/REBUG_TOOLBOX_02.03.04.MULTI.16.pkg (Note this link comes from a redirect of 4.86.1 LITE and is 02.03.04, rebug 4.84.2 was released with toolbox version 02.03.02) <br>
-4.86.1 LITE: https://web.archive.org/web/20200629143130mp_/https://rebug.me/?wpfb_dl=217
+
+|firmware | rebug link | PSSF file | MD5 |
+|---------|------------|-----------|-----|
+| 4.84.2 REX | https://web.archive.org/web/20190612022418mp_/https://rebug.me/?wpfb_dl=211 | https://web.archive.org/web/20201031062437/https://playstationscenefiles.com/rebug/REBUG_4.84.2_REX_0835d81e3c581f3bdfdfbe86fca5e192_PS3UPDAT.PUP | 0835d81e3c581f3bdfdfbe86fca5e192 |
+| 4.84.2 DREX | https://web.archive.org/web/20200703123047/https://rebug.me/?wpfb_dl=212 | https://web.archive.org/web/20201031062347/https://playstationscenefiles.com/rebug/REBUG_4.84.2_D-REX_9211252d41841461c6299bfad48fa7f1_PS3UPDAT.PUP | 9211252d41841461c6299bfad48fa7f1 |
+| 4.86.1 LITE | https://web.archive.org/web/20200629143130mp_/https://rebug.me/?wpfb_dl=217 | https://web.archive.org/web/20201007002023/https://playstationscenefiles.com/rebug/REBUG_4.86.1_LITE_a2c79919cafdbb50ccb5ee9589245380_PS3UPDAT.PUP | a2c79919cafdbb50ccb5ee9589245380 |
