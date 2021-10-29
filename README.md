@@ -9,10 +9,13 @@ and are aware of the potential dangers that may arise by the use of these provid
 hyperlinks have been used to shorten row width in the table for readability purposes, if you wish to view the entire link before downloading,
 right click the link and use your browsers variation of "copy link address" and paste it somewhere you can view it.
 
+All links provided are through the internet archive/wayback machine
+
 ## What is this?
 rebug.me has been down for a while, but luckily the internet archive hosts a fair few of the firmwares, 
 in the event that [midnight channel](https://archive.midnightchannel.net/SonyPS/Firmware/?cat=rebug) goes down,
 this page can be used as a quick way to get an alternative download link to a particular rebug firmware.
+To reiterate, if your firmware is available on midnight channel, download it from there as it will be faster.
 
 ## What do the different links do?
 When downloading a rebug firmware, originally you would first download a text document containing a link to the actual firmware,
