@@ -1,4 +1,4 @@
-# PS3-CFW-rebug-firmware-links
+# PS3-CFW-rebug-archived-links
 
 ## Disclaimer
 I am in no way responsible for the use of these links/files, 
@@ -135,3 +135,18 @@ Rebug_Update_Package_0.1_3.41.3_Links.rar | https://web.archive.org/web/20180910
 boot_otheros++.rar | https://web.archive.org/web/20180910141157/https://rebug.me/?wpfb_dl=22 |
 Package_Manager_Installer_1.1.rar | https://web.archive.org/web/20180910141157/https://rebug.me/?wpfb_dl=18 |
 Coldboot_Installer_1.0.rar | https://web.archive.org/web/20180910141157/https://rebug.me/?wpfb_dl=13 |
+
+| file name | link | 
+|-----------|------|
+REBUG_4.82.1_LITE_c5da00d59e4d1a7aa599e5d0e21415f8 _PS3UPDAT.PUP | https://web.archive.org/web/20180131205847/https://www.playstationscenefiles.com/rebug/REBUG_4.82.1_LITE_c5da00d59e4d1a7aa599e5d0e21415f8%20_PS3UPDAT.PUP |
+REBUG_4.81.1_REX_1c3cb2abb498fbb7b9ed4db199bbb5e6_PS3UPDAT.PUP | https://web.archive.org/web/20180817205425/https://playstationscenefiles.com/rebug/REBUG_4.81.1_REX_1c3cb2abb498fbb7b9ed4db199bbb5e6_PS3UPDAT.PUP |
+REBUG_4.80.1_D-REX_d7b460caa6df6fcfb03c115f6c72a440_PS3UPDAT.PUP | https://web.archive.org/web/20160512041022/http://www.playstationscenefiles.com/rebug/REBUG_4.80.1_D-REX_d7b460caa6df6fcfb03c115f6c72a440_PS3UPDAT.PUP |
+REBUG_4.76.1_REX_09b9ae829eaa6d6215552747f685be8b_PS3UPDAT.PUP | https://web.archive.org/web/20170819082545/https://playstationscenefiles.com/rebug/REBUG_4.76.1_REX_09b9ae829eaa6d6215552747f685be8b_PS3UPDAT.PUP |
+REBUG_4.76.1_D-REX__fa55371369e04352994136c6e7c3914e_PS3UPDAT.PUP | https://web.archive.org/web/20170818233315/https://playstationscenefiles.com/rebug/REBUG_4.76.1_D-REX__fa55371369e04352994136c6e7c3914e_PS3UPDAT.PUP |
+REBUG_4.70.1_D-REX_PS3UPDAT.PUP | https://web.archive.org/web/20170819083410/https://scmods.com/rebug/firmware/REBUG_4.70.1_D-REX_PS3UPDAT.PUP |
+REBUG_4.65.2_D-REX_PS3UPDAT.PUP | https://web.archive.org/web/20170818233422/https://scmods.com/rebug/firmware/REBUG_4.65.2_D-REX_PS3UPDAT.PUP |
+REBUG_4.46.1_REX_PS3UPDAT.PUP | https://web.archive.org/web/20170819083216/https://scmods.com/rebug/firmware/REBUG_4.46.1_REX_PS3UPDAT.PUP |
+REBUG_4.46.1_LITE_PS3UPDAT.PUP | https://web.archive.org/web/20141025145339/http://scmods.com/rebug/firmware/REBUG_4.46.1_LITE_PS3UPDAT.PUP |
+REBUG_4.41.3_REX_PS3UPDAT.PUP | https://web.archive.org/web/20140824055944/http://scmods.com/rebug/firmware/REBUG_4.41.3_REX_PS3UPDAT.PUP |
+REBUG_4.30.2_REX_PS3UPDAT.PUP | https://web.archive.org/web/20130731124829/http://scmods.com/rebug/firmware/REBUG_4.30.2_REX_PS3UPDAT.PUP |
+REBUG_3.55.4_REX_PS3UPDAT.PUP | https://web.archive.org/web/20141025145406/http://scmods.com/rebug/firmware/REBUG_3.55.4_REX_PS3UPDAT.PUP |
