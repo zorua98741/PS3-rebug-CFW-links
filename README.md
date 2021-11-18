@@ -40,7 +40,8 @@ Alternatively, the "midnight file" link is an archived copy of the midnight chan
 | 4.86.1 LITE | [rebug.me/?wpfb_dl=217](https://web.archive.org/web/20200629143130mp_/https://rebug.me/?wpfb_dl=217) | [REBUG_4.86.1_LITE](https://web.archive.org/web/20201007002023/https://playstationscenefiles.com/rebug/REBUG_4.86.1_LITE_a2c79919cafdbb50ccb5ee9589245380_PS3UPDAT.PUP) | [v4.86.1_LE](https://web.archive.org/web/20210414045514/https://archive.midnightchannel.net/SonyPS/Firmware/download/a2c79919cafdbb50ccb5ee9589245380/REBUG_CRC[f0ef6997]_FW[v4.86.1_LE]_PS3UPDAT.PUP) | a2c79919cafdbb50ccb5ee9589245380 |
 
 ## Misc archived links
-Links here are found while scraping archived sites, i have not downloaded any files and in most cases not opened the link myself and thus do not know what relevance these files have.  
+Links here are found while scraping archived sites, i have not downloaded any files and in most cases not opened the link myself and thus do not know what relevance these files have.
+<br>
 These links were found while scraping rebug.me:
 | file name | link |
 |-----------|------|
@@ -150,3 +151,7 @@ REBUG_4.46.1_LITE_PS3UPDAT.PUP | https://web.archive.org/web/20141025145339/http
 REBUG_4.41.3_REX_PS3UPDAT.PUP | https://web.archive.org/web/20140824055944/http://scmods.com/rebug/firmware/REBUG_4.41.3_REX_PS3UPDAT.PUP |
 REBUG_4.30.2_REX_PS3UPDAT.PUP | https://web.archive.org/web/20130731124829/http://scmods.com/rebug/firmware/REBUG_4.30.2_REX_PS3UPDAT.PUP |
 REBUG_3.55.4_REX_PS3UPDAT.PUP | https://web.archive.org/web/20141025145406/http://scmods.com/rebug/firmware/REBUG_3.55.4_REX_PS3UPDAT.PUP |
+
+<br>
+This link appears to have archived all midnight channel links:  
+https://web.archive.org/web/20210414212404/http://archive.midnightchannel.net/SonyPS/Firmware/?cat=rebug
